@@ -1,26 +1,22 @@
 # Trillo
 
-#
-
 ## Description
 
 Trillo is a travel app I built with the Udemy course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/share/101WkwAEcYcVtbRH8H/)
 
 ## Deployed Link
 
+https://aguado-romina.github.io/trillo/
+
 ## Images
 
-![img]()
+![img](img/homepage.png)
 
 ## Languages
 
 HTML5 <br>
 CSS3 <br>
 SASS<br>
-
-## Lighthouse Performance Check
-
-![img]()
 
 ## Contribute
 
