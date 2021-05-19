@@ -6,7 +6,7 @@ Trillo is a travel app I built with the Udemy course [Advanced CSS and Sass: Fle
 
 ## Deployed Link
 
-https://aguado-romina.github.io/trillo/
+https://aguado-romina.github.io/Trillo/
 
 ## Images
 
